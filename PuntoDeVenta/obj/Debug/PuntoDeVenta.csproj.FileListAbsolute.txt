@@ -1,0 +1,11 @@
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\PuntoDeVentaGrupal\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
